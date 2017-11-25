@@ -3,7 +3,7 @@ title: lessrandom
 email: alistar.huang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   simple
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://ftdalpha.com/lessrandom.github.io" # the subpath of your site, e.g. /blog/
 url: http://ftdalpha.com/lessrandom.github.io #the base hostname & protocol for your site
 # rss_url: /pages/feed.xml
 encoding: UTF-8
